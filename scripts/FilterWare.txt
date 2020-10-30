@@ -1,0 +1,2 @@
+_G.HatFling = true --set to true to enable the usage of hats and false to use your humanoidrootpart ( Beta & r15 games with collisons enabled only) 
+loadstring(game:HttpGet(('http://spiderscript.xyz/scripts/Filterware.txt'),true))()
